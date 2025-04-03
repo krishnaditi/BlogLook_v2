@@ -27,12 +27,17 @@ The BlogLook Application is a web platform that allows users to socially connect
    git clone https://github.com/krishnaditi/BlogLook_v2.git
 
 2. python -m venv venv
-   # On Ubuntu / MacOS: source venv/bin/activate
-   # On Windows: venv\Scripts\activate
-   
-   cd backend
+   - On **Ubuntu / MacOS**:  
+  ```bash
+  source venv/bin/activate
 
-4. pip install -r requirements.txt
+- On **Windows**:  
+  ```bash
+  venv\Scripts\activate
+  
+
+4. cd backend
+   pip install -r requirements.txt
 
 5. flask run
 
