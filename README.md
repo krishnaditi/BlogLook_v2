@@ -28,18 +28,17 @@ The BlogLook Application is a web platform that allows users to socially connect
 
 2. python -m venv venv
    - On **Ubuntu / MacOS**:  
-  ```bash
+  
   source venv/bin/activate
-
   - On **Windows**:  
-  ```bash
+  
   venv\Scripts\activate
   
-
 4. cd backend
    pip install -r requirements.txt
 
 5. flask run
+
 
 ## 📂 Folder Structure  
 
