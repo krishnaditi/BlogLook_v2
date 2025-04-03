@@ -82,7 +82,7 @@ The BlogLook Application is a web platform that allows users to socially connect
 │-- README.md
 │-- openapi.yaml
 
-
+```
 
 
 👤 Author
