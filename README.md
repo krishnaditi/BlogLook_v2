@@ -1,4 +1,4 @@
-# 🛠<img src="https://img.icons8.com/ios-filled/50/000000/blog.png" width="25"/> Social Blogging Platform
+# <img src="https://img.icons8.com/ios-filled/50/000000/blog.png" width="25"/> Social Blogging Platform
  BlogLook Application  
 _A Social Platform for Blog Management using Flask, SQLAlchemy, HTML, CSS & Bootstrap_  
 
