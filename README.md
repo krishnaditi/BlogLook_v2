@@ -9,11 +9,10 @@ The BlogLook Application is a web platform that allows users to socially connect
 
 ### 🔹 Key Features  
 ✔️ Social Application  
-✔️ Blog Management workflow  
+✔️ Blog Management Workflow  
 ✔️ Following & Follower System  
-✔️ Caching done by Redis server
-✔️ Monthly and Daily Reminders System for users
-
+✔️ Caching done by Redis Server  
+✔️ Monthly and Daily Reminders System for Users  
 
 ## 🛠️ Tech Stack  
 - **Backend:** Flask, SQLAlchemy  
