@@ -37,6 +37,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ## 📂 Folder Structure  
 
+
+```plaintext
 /BlogLook_v2
 │-- backend
 │   ├── application        # Backend folder
@@ -75,7 +77,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 │
 │-- README.md
 │-- openapi.yaml
-
 
 
 ## 👤 Author  
