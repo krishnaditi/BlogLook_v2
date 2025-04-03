@@ -37,45 +37,45 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ## 📂 Folder Structure  
 
-/BlogLook_v2 
-│-- backend 
-│   --├── application      # Backend folder 
-│         --├── static    # images and csv files
-│         --├── templates    # HTML pages for triggered jobs
-│            ├── api.py    # flask apis
-│            ├── cache.py    # cache initilization
-│            ├── clry.py    # celery initilization
-│            ├── emailgen.py    # SMTP initilization
-│            ├── models.py    # database tables
-│            ├── tasks.py    # jobs triggered
-│      ├── 21f1004270-Project Documentation.pdf      # Project Report 
-│      ├── app.py     # configuration and API endpoints
-│      ├── requirements.txt     # libraries used
-
-│-- frontend 
-│   --├── src  
-│         --├── assets         # Images
-│         --├── components         # vue components        
-│                 ├── Add_Blogs.vue         
-│                 ├── DeleteBlog.vue          
-│                 ├── DeleteUser.vue         
-│                 ├── EngageMent.vue         
-│                 ├── FollowersPg.vue         
-│                 ├── FollowingPg.vue         
-│                 ├── HomePage.vue         
-│                 ├── LoginPage.vue          
-│                 ├── MyProfile.vue          
-│                 ├── OtherProfile.vue         
-│                 ├── 
-│                 ├── ...
-│         --├── router
-│         --├── store
-│         --├── views
-│            ├── App.vue
-│            ├── main.js
-   
+/BlogLook_v2
+│-- backend
+│   ├── application        # Backend folder
+│   │   ├── static         # Images and CSV files
+│   │   ├── templates      # HTML pages for triggered jobs
+│   │   ├── api.py         # Flask APIs
+│   │   ├── cache.py       # Cache initialization
+│   │   ├── clry.py        # Celery initialization
+│   │   ├── emailgen.py    # SMTP initialization
+│   │   ├── models.py      # Database tables
+│   │   ├── tasks.py       # Jobs triggered
+│   ├── 21f1004270-Project Documentation.pdf  # Project Report
+│   ├── app.py            # Configuration and API endpoints
+│   ├── requirements.txt   # Libraries used
+│
+│-- frontend
+│   ├── src
+│   │   ├── assets         # Images
+│   │   ├── components     # Vue components
+│   │   │   ├── Add_Blogs.vue
+│   │   │   ├── DeleteBlog.vue
+│   │   │   ├── DeleteUser.vue
+│   │   │   ├── EngageMent.vue
+│   │   │   ├── FollowersPg.vue
+│   │   │   ├── FollowingPg.vue
+│   │   │   ├── HomePage.vue
+│   │   │   ├── LoginPage.vue
+│   │   │   ├── MyProfile.vue
+│   │   │   ├── OtherProfile.vue
+│   │   │   ├── ...
+│   │   ├── router
+│   │   ├── store
+│   │   ├── views
+│   │   │   ├── App.vue
+│   │   │   ├── main.js
+│
 │-- README.md
 │-- openapi.yaml
+
 
 
 ## 👤 Author  
