@@ -83,11 +83,14 @@ The BlogLook Application is a web platform that allows users to socially connect
 │-- openapi.yaml
 
 
-## 👤 Author  
-**Aditi Krishana**  
-🔗 [GitHub](https://github.com/krishnaditi) | [LinkedIn](https://linkedin.com/in/aditi-krishana)  
-📧 Email: krishanaaditi@gmail.com  
 
-## 🎉 Acknowledgments  
+
+👤 Author
+Aditi Krishana
+🔗 [GitHub](https://github.com/krishnaditi) | [LinkedIn](https://linkedin.com/in/aditi-krishana)
+📧 Email: krishanaaditi@gmail.com
+
+
+🎉 Acknowledgments  
 Thanks to [Bootstrap](https://getbootstrap.com/) & [Flask](https://flask.palletsprojects.com/) for making this project possible.
 
