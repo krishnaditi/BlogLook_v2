@@ -24,15 +24,17 @@ The BlogLook Application is a web platform that allows users to socially connect
 ## ⚙️ Installation  
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/household-services.git
-   cd household-services
+   git clone https://github.com/krishnaditi/BlogLook_v2.git
 
 2. python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+   # On Ubuntu / MacOS: source venv/bin/activate
+   # On Windows: venv\Scripts\activate
+   
+   cd backend
 
-3. pip install -r requirements.txt
+4. pip install -r requirements.txt
 
-4. flask run
+5. flask run
 
 ## 📂 Folder Structure  
 
@@ -49,6 +51,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 │   │   ├── emailgen.py    # SMTP initialization
 │   │   ├── models.py      # Database tables
 │   │   ├── tasks.py       # Jobs triggered
+|   |
 │   ├── 21f1004270-Project Documentation.pdf  # Project Report
 │   ├── app.py            # Configuration and API endpoints
 │   ├── requirements.txt   # Libraries used
