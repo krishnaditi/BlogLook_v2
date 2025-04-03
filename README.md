@@ -31,7 +31,7 @@ The BlogLook Application is a web platform that allows users to socially connect
   ```bash
   source venv/bin/activate
 
-- On **Windows**:  
+  - On **Windows**:  
   ```bash
   venv\Scripts\activate
   
